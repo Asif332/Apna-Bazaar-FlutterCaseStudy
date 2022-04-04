@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "p1",
+      "name": "Fruits and Vegetables",
+      "products": [
+        [
+          {
+            "title": "Fresh Kiwi - Green 3 pcs",
+            "imageName": "i",
+            "isFlagVisible": true,
+            "description": "Kiwis are oval shaped with a brownish outer skin. The flesh is bright green and juicy with tiny edible black seeds.",
+            "pieces": "3 pc (270g - 300g)",
+            "price": "Buy Now @MRP Rs.87",
+            "isShellLifeVisible": true,
+            "cartQuantity": 0
+          },
+          {
+            "title": "Fresh Kiwi - Green 3 pcs"
+          }
+        ]
+      ],
+      "id": "p1",
+      "name": "Bakery, Cakes and Dairy",
+      "products": [
+        [
+          {
+            "title": "Fresh Kiwi - Green 3 pcs",
+            "imageName": "i",
+            "isFlagVisible": true,
+            "description": "Kiwis are oval shaped with a brownish outer skin. The flesh is bright green and juicy with tiny edible black seeds.",
+            "pieces": "3 pc (270g - 300g)",
+            "price": "Buy Now @MRP Rs.87",
+            "isShellLifeVisible": true,
+            "cartQuantity": 0
+          },
+          {
+            "title": "Fresh Kiwi - Green 3 pcs"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Bakery, Cakes and Dairy",
+      "products": "Description 2"
+    },
+    {
+      "id": "p3",
+      "name": "Beverages",
+      "products": "Description 3"
+    },
+    {
+      "id": "p4",
+      "name": "Beauty and Hygiene",
+      "products": "Description 2"
+    },
+    {
+      "id": "p5",
+      "name": "Baby Care",
+      "products": "Description 3"
+    }
+  ]
+}
